@@ -1,0 +1,361 @@
+{
+  "1": {
+    "title": "Sum of Two Integers",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Normal",
+        "input": "5 10",
+        "expected_output": "15"
+      },
+      {
+        "case_id": 2,
+        "category": "Boundary",
+        "input": "0 8",
+        "expected_output": "8"
+      },
+      {
+        "case_id": 3,
+        "category": "Mixed Sign",
+        "input": "-3 7",
+        "expected_output": "4"
+      },
+      {
+        "case_id": 4,
+        "category": "Large",
+        "input": "1000000 2000000",
+        "expected_output": "3000000"
+      },
+      {
+        "case_id": 5,
+        "category": "Both Negative",
+        "input": "-5 -6",
+        "expected_output": "-11"
+      }
+    ]
+  },
+
+  "2": {
+    "title": "Area of a Circle",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Normal",
+        "input": "5",
+        "expected_output": "78.54"
+      },
+      {
+        "case_id": 2,
+        "category": "Zero Radius",
+        "input": "0",
+        "expected_output": "0.00"
+      },
+      {
+        "case_id": 3,
+        "category": "Unit Radius",
+        "input": "1",
+        "expected_output": "3.14"
+      },
+      {
+        "case_id": 4,
+        "category": "Decimal Radius",
+        "input": "2.5",
+        "expected_output": "19.63"
+      },
+      {
+        "case_id": 5,
+        "category": "Large Radius",
+        "input": "100",
+        "expected_output": "31415.90"
+      }
+    ]
+  },
+
+  "3": {
+    "title": "Largest of Two Numbers",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Normal",
+        "input": "12 7",
+        "expected_output": "12"
+      },
+      {
+        "case_id": 2,
+        "category": "Equal",
+        "input": "8 8",
+        "expected_output": "8"
+      },
+      {
+        "case_id": 3,
+        "category": "Negative",
+        "input": "-3 -8",
+        "expected_output": "-3"
+      },
+      {
+        "case_id": 4,
+        "category": "Mixed Sign",
+        "input": "-5 6",
+        "expected_output": "6"
+      },
+      {
+        "case_id": 5,
+        "category": "Large",
+        "input": "999999 1000000",
+        "expected_output": "1000000"
+      }
+    ]
+  },
+
+  "4": {
+    "title": "Print Numbers from 1 to N",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Normal",
+        "input": "5",
+        "expected_output": "1 2 3 4 5"
+      },
+      {
+        "case_id": 2,
+        "category": "Minimum",
+        "input": "1",
+        "expected_output": "1"
+      },
+      {
+        "case_id": 3,
+        "category": "Small",
+        "input": "2",
+        "expected_output": "1 2"
+      },
+      {
+        "case_id": 4,
+        "category": "Medium",
+        "input": "10",
+        "expected_output": "1 2 3 4 5 6 7 8 9 10"
+      },
+      {
+        "case_id": 5,
+        "category": "Large",
+        "input": "20",
+        "expected_output": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"
+      }
+    ]
+  },
+
+  "5": {
+    "title": "Factorial of a Number",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Zero",
+        "input": "0",
+        "expected_output": "1"
+      },
+      {
+        "case_id": 2,
+        "category": "One",
+        "input": "1",
+        "expected_output": "1"
+      },
+      {
+        "case_id": 3,
+        "category": "Normal",
+        "input": "5",
+        "expected_output": "120"
+      },
+      {
+        "case_id": 4,
+        "category": "Medium",
+        "input": "10",
+        "expected_output": "3628800"
+      },
+      {
+        "case_id": 5,
+        "category": "Large",
+        "input": "20",
+        "expected_output": "2432902008176640000"
+      }
+    ]
+  },
+
+  "6": {
+    "title": "Prime Number Check",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Small Prime",
+        "input": "2",
+        "expected_output": "Prime"
+      },
+      {
+        "case_id": 2,
+        "category": "Prime",
+        "input": "13",
+        "expected_output": "Prime"
+      },
+      {
+        "case_id": 3,
+        "category": "Composite",
+        "input": "15",
+        "expected_output": "Not Prime"
+      },
+      {
+        "case_id": 4,
+        "category": "Boundary",
+        "input": "1",
+        "expected_output": "Not Prime"
+      },
+      {
+        "case_id": 5,
+        "category": "Large Prime",
+        "input": "97",
+        "expected_output": "Prime"
+      }
+    ]
+  },
+
+  "7": {
+    "title": "Largest Element in a List",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Normal",
+        "input": "5\n8 3 15 2 10",
+        "expected_output": "15"
+      },
+      {
+        "case_id": 2,
+        "category": "Single Element",
+        "input": "1\n7",
+        "expected_output": "7"
+      },
+      {
+        "case_id": 3,
+        "category": "Negative",
+        "input": "4\n-5 -2 -8 -1",
+        "expected_output": "-1"
+      },
+      {
+        "case_id": 4,
+        "category": "Equal Values",
+        "input": "3\n6 6 6",
+        "expected_output": "6"
+      },
+      {
+        "case_id": 5,
+        "category": "Sorted",
+        "input": "5\n1 2 3 4 5",
+        "expected_output": "5"
+      }
+    ]
+  },
+
+  "8": {
+    "title": "Count Vowels",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Normal",
+        "input": "Artificial Intelligence",
+        "expected_output": "10"
+      },
+      {
+        "case_id": 2,
+        "category": "No Vowels",
+        "input": "rhythm",
+        "expected_output": "0"
+      },
+      {
+        "case_id": 3,
+        "category": "All Vowels",
+        "input": "aeiouAEIOU",
+        "expected_output": "10"
+      },
+      {
+        "case_id": 4,
+        "category": "Empty",
+        "input": "",
+        "expected_output": "0"
+      },
+      {
+        "case_id": 5,
+        "category": "Mixed Case",
+        "input": "OpenAI",
+        "expected_output": "4"
+      }
+    ]
+  },
+
+  "9": {
+    "title": "Word Frequency Counter",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Repeated",
+        "input": "apple banana apple",
+        "expected_output": "apple 2\nbanana 1"
+      },
+      {
+        "case_id": 2,
+        "category": "Single Word",
+        "input": "computer",
+        "expected_output": "computer 1"
+      },
+      {
+        "case_id": 3,
+        "category": "Multiple Words",
+        "input": "cat dog cat dog cat",
+        "expected_output": "cat 3\ndog 2"
+      },
+      {
+        "case_id": 4,
+        "category": "Unique",
+        "input": "one two three",
+        "expected_output": "one 1\ntwo 1\nthree 1"
+      },
+      {
+        "case_id": 5,
+        "category": "Case Sensitive",
+        "input": "Apple apple",
+        "expected_output": "Apple 1\napple 1"
+      }
+    ]
+  },
+
+  "10": {
+    "title": "Fibonacci Using Recursion",
+    "test_cases": [
+      {
+        "case_id": 1,
+        "category": "Zero",
+        "input": "0",
+        "expected_output": "0"
+      },
+      {
+        "case_id": 2,
+        "category": "One",
+        "input": "1",
+        "expected_output": "1"
+      },
+      {
+        "case_id": 3,
+        "category": "Small",
+        "input": "5",
+        "expected_output": "5"
+      },
+      {
+        "case_id": 4,
+        "category": "Medium",
+        "input": "10",
+        "expected_output": "55"
+      },
+      {
+        "case_id": 5,
+        "category": "Large",
+        "input": "20",
+        "expected_output": "6765"
+      }
+    ]
+  }
+}
