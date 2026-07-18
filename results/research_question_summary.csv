@@ -1,0 +1,5 @@
+Research Question,Question,Evidence
+RQ1,Does GPT-5.5 generate consistent solutions?,"4 fully consistent, 3 partially consistent, 3 fully incorrect benchmark problems."
+RQ2,Are generated solutions functionally correct?,17 of 30 programs (56.67%) passed all hidden test cases.
+RQ3,What errors occur in AI-generated code?,"Execution failures, runtime failures and syntax-invalid programs were observed."
+RQ4,What are the educational implications?,AI-generated code should be systematically evaluated before classroom use.

@@ -1,0 +1,73 @@
+experiment_id,problem_id,generation,program,syntax_correct,execution_success,passed_tests,total_tests,error_type,failed_test_case,test_category,expected_output,actual_output,stderr,execution_time_ms
+PILOT_01,1,A,solution_A.py,Yes,Yes,5,5,None,,,,,,274.78
+PILOT_01,1,B,solution_B.py,Yes,Yes,5,5,None,,,,,,206.18
+PILOT_01,1,C,solution_C.py,Yes,Yes,5,5,None,,,,,,200.96
+PILOT_01,2,A,solution_A.py,Yes,Yes,5,5,None,,,,,,227.92
+PILOT_01,2,B,solution_B.py,Yes,No,0,5,Runtime Error,1,Normal,78.54,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_002/solution_B.py"", line 5
+    r = float(data)
+    ^
+IndentationError: expected an indented block after 'if' statement on line 4",42.77
+PILOT_01,2,C,solution_C.py,Yes,Yes,5,5,None,,,,,,198.85
+PILOT_01,3,A,solution_A.py,Yes,Yes,5,5,None,,,,,,237.56
+PILOT_01,3,B,solution_B.py,Yes,Yes,5,5,None,,,,,,203.24
+PILOT_01,3,C,solution_C.py,Yes,Yes,5,5,None,,,,,,214.82
+PILOT_01,4,A,solution_A.py,Yes,Yes,5,5,None,,,,,,206.63
+PILOT_01,4,B,solution_B.py,Yes,Yes,5,5,None,,,,,,202.1
+PILOT_01,4,C,solution_C.py,Yes,Yes,5,5,None,,,,,,203.1
+PILOT_01,5,A,solution_A.py,Yes,Yes,5,5,None,,,,,,260.01
+PILOT_01,5,B,solution_B.py,Yes,Yes,5,5,None,,,,,,280.49
+PILOT_01,5,C,solution_C.py,Yes,No,0,5,Runtime Error,1,Zero,1,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_005/solution_C.py"", line 5
+    n = int(data)
+    ^
+IndentationError: expected an indented block after 'if' statement on line 4",70.31
+PILOT_01,6,A,solution_A.py,Yes,No,0,5,Runtime Error,1,Small Prime,Prime,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_006/solution_A.py"", line 5
+    if n < 2:
+    ^^
+IndentationError: expected an indented block after function definition on line 4",55.4
+PILOT_01,6,B,solution_B.py,Yes,No,0,5,Runtime Error,1,Small Prime,Prime,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_006/solution_B.py"", line 5
+    if n <= 1:
+    ^^
+IndentationError: expected an indented block after function definition on line 4",55.51
+PILOT_01,6,C,solution_C.py,Yes,No,0,5,Runtime Error,1,Small Prime,Prime,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_006/solution_C.py"", line 5
+    if n < 2:
+    ^^
+IndentationError: expected an indented block after function definition on line 4",55.41
+PILOT_01,7,A,solution_A.py,Yes,Yes,5,5,None,,,,,,271.53
+PILOT_01,7,B,solution_B.py,Yes,No,0,5,Runtime Error,1,Normal,15,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_007/solution_B.py"", line 5
+    n = data[0]
+    ^
+IndentationError: expected an indented block after 'if' statement on line 4",55.15
+PILOT_01,7,C,solution_C.py,Yes,No,0,5,Runtime Error,1,Normal,15,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_007/solution_C.py"", line 5
+    n = data[0]
+    ^
+IndentationError: expected an indented block after 'if' statement on line 4",54.62
+PILOT_01,8,A,solution_A.py,Yes,Yes,5,5,None,,,,,,266.28
+PILOT_01,8,B,solution_B.py,Yes,Yes,5,5,None,,,,,,284.28
+PILOT_01,8,C,solution_C.py,Yes,Yes,5,5,None,,,,,,287.0
+PILOT_01,9,A,solution_A.py,Yes,No,0,5,Runtime Error,1,Repeated,"apple 2
+banana 1",,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_009/solution_A.py"", line 9
+    freq[w] = freq.get(w, 0) + 1
+    ^^^^
+IndentationError: expected an indented block after 'for' statement on line 8",65.93
+PILOT_01,9,B,solution_B.py,Yes,No,0,5,Runtime Error,1,Repeated,"apple 2
+banana 1",,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_009/solution_B.py"", line 9
+    freq[w] = freq.get(w, 0) + 1
+    ^^^^
+IndentationError: expected an indented block after 'for' statement on line 8",60.93
+PILOT_01,9,C,solution_C.py,Yes,No,0,5,Runtime Error,1,Repeated,"apple 2
+banana 1",,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_009/solution_C.py"", line 10
+    if word not in freq:
+    ^^
+IndentationError: expected an indented block after 'for' statement on line 9",165.48
+PILOT_01,10,A,solution_A.py,Yes,No,0,5,Runtime Error,1,Zero,0,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_010/solution_A.py"", line 9
+    if x <= 1:
+    ^^
+IndentationError: expected an indented block after function definition on line 8",69.36
+PILOT_01,10,B,solution_B.py,Yes,No,0,5,Runtime Error,1,Zero,0,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_010/solution_B.py"", line 4
+    if n <= 1:
+    ^^
+IndentationError: expected an indented block after function definition on line 3",142.37
+PILOT_01,10,C,solution_C.py,Yes,No,0,5,Runtime Error,1,Zero,0,,"File ""/content/drive/MyDrive/AI-Code-Judgment-CS1/generated_code/problem_010/solution_C.py"", line 6
+    if n <= 1:
+    ^^
+IndentationError: expected an indented block after function definition on line 5",192.05

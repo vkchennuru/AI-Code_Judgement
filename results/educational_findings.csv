@@ -1,0 +1,5 @@
+Finding,Evidence,Educational Interpretation
+Functional Correctness,17 of 30 programs passed all hidden test cases.,Students should verify AI-generated code through systematic testing before trusting the output.
+Generation Consistency,4 benchmark problems showed fully consistent behaviour across all three generations.,Repeated generations of the same prompt may not always produce equally reliable solutions.
+Runtime Reliability,17 programs executed successfully.,Program execution alone should not be considered evidence of correctness.
+Syntax Validity,17 programs were syntactically valid.,Students should learn to identify syntax and execution issues before relying on AI-generated programs.

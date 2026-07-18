@@ -1,0 +1,11 @@
+problem_id,A,B,C,Consistency
+1,5.0,5.0,5.0,Fully Consistent
+2,5.0,0.0,5.0,Partially Consistent
+3,5.0,5.0,5.0,Fully Consistent
+4,5.0,5.0,5.0,Fully Consistent
+5,5.0,5.0,0.0,Partially Consistent
+6,0.0,0.0,0.0,Fully Incorrect
+7,5.0,0.0,0.0,Partially Consistent
+8,5.0,5.0,5.0,Fully Consistent
+9,0.0,0.0,0.0,Fully Incorrect
+10,0.0,0.0,0.0,Fully Incorrect

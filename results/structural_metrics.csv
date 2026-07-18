@@ -1,0 +1,31 @@
+LOC,Blank_Lines,Comment_Lines,Functions,Loops,Ifs,Inputs,Prints,Assignments,Returns,Parse_Status,problem_id,generation,program
+4,1,0,0,0,0,0,1,1,0,Success,1,A,solution_A.py
+4,1,0,0,0,0,0,1,1,0,Success,1,B,solution_B.py
+4,1,0,0,0,0,0,1,1,0,Success,1,C,solution_C.py
+5,1,0,0,0,0,0,1,2,0,Success,2,A,solution_A.py
+7,1,0,0,0,0,0,0,0,0,Syntax Error,2,B,solution_B.py
+5,1,0,0,0,0,0,1,2,0,Success,2,C,solution_C.py
+6,1,0,0,0,0,0,1,3,0,Success,3,A,solution_A.py
+5,1,0,0,0,0,0,1,2,0,Success,3,B,solution_B.py
+6,1,0,0,0,0,0,1,3,0,Success,3,C,solution_C.py
+4,1,0,0,0,0,0,1,1,0,Success,4,A,solution_A.py
+2,0,0,0,0,0,2,1,1,0,Success,4,B,solution_B.py
+4,1,0,0,0,0,0,1,1,0,Success,4,C,solution_C.py
+5,1,0,0,0,0,0,1,1,0,Success,5,A,solution_A.py
+5,1,0,0,0,0,0,1,1,0,Success,5,B,solution_B.py
+9,1,0,0,0,0,0,0,0,0,Syntax Error,5,C,solution_C.py
+21,2,0,0,0,0,0,0,0,0,Syntax Error,6,A,solution_A.py
+21,2,0,0,0,0,0,0,0,0,Syntax Error,6,B,solution_B.py
+19,2,0,0,0,0,0,0,0,0,Syntax Error,6,C,solution_C.py
+6,1,0,0,0,0,0,1,3,0,Success,7,A,solution_A.py
+7,1,0,0,0,0,0,0,0,0,Syntax Error,7,B,solution_B.py
+7,1,0,0,0,0,0,0,0,0,Syntax Error,7,C,solution_C.py
+6,1,0,0,0,0,0,1,3,0,Success,8,A,solution_A.py
+6,1,0,0,0,0,0,1,3,0,Success,8,B,solution_B.py
+6,1,0,0,0,0,0,1,3,0,Success,8,C,solution_C.py
+12,3,0,0,0,0,0,0,0,0,Syntax Error,9,A,solution_A.py
+12,3,0,0,0,0,0,0,0,0,Syntax Error,9,B,solution_B.py
+17,4,0,0,0,0,0,0,0,0,Syntax Error,9,C,solution_C.py
+13,4,0,0,0,0,0,0,0,0,Syntax Error,10,A,solution_A.py
+9,2,0,0,0,0,0,0,0,0,Syntax Error,10,B,solution_B.py
+11,3,0,0,0,0,0,0,0,0,Syntax Error,10,C,solution_C.py
