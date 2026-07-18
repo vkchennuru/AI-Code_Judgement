@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Largest Element in a List
+
+Problem Statement:
+Write a Python program that reads a list of integers and prints the largest element.
+
+Input Format:
+First line: integer N. Second line: N integers separated by spaces.
+
+Output Format:
+Print the largest element.
+
+Constraints:
+1 ? N ? 1000

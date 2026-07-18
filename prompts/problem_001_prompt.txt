@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Sum of Two Integers
+
+Problem Statement:
+Write a Python program that reads two integers separated by a space and prints their sum.
+
+Input Format:
+Two integers separated by a space.
+
+Output Format:
+Print a single integer representing their sum.
+
+Constraints:
+-10^9 ? a, b ? 10^9

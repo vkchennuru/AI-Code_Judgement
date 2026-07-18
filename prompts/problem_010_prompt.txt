@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Fibonacci Using Recursion
+
+Problem Statement:
+Write a Python program that computes the nth Fibonacci number using recursion. Assume F(0)=0 and F(1)=1.
+
+Input Format:
+One non-negative integer n.
+
+Output Format:
+Print the nth Fibonacci number.
+
+Constraints:
+0 ? n ? 30

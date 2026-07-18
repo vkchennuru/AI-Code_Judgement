@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Count Vowels in a String
+
+Problem Statement:
+Write a Python program that reads a string and prints the number of vowels (a, e, i, o, u). Count both uppercase and lowercase vowels.
+
+Input Format:
+One line containing a string.
+
+Output Format:
+Print the total number of vowels.
+
+Constraints:
+Length ? 1000 characters

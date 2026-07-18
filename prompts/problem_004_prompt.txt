@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Print Numbers from 1 to N
+
+Problem Statement:
+Write a Python program that reads an integer N and prints all integers from 1 to N separated by spaces.
+
+Input Format:
+One positive integer N.
+
+Output Format:
+Numbers from 1 to N separated by spaces.
+
+Constraints:
+1 ? N ? 1000

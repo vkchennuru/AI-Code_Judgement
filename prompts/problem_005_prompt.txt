@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Factorial of a Number
+
+Problem Statement:
+Write a Python program that reads a non-negative integer and prints its factorial.
+
+Input Format:
+One non-negative integer.
+
+Output Format:
+Print the factorial value.
+
+Constraints:
+0 ? N ? 20

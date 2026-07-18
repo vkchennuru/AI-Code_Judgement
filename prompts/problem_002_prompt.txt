@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Area of a Circle
+
+Problem Statement:
+Write a Python program that reads the radius of a circle and prints its area using ? = 3.14159. Display the answer rounded to two decimal places.
+
+Input Format:
+One positive real number representing the radius.
+
+Output Format:
+Print the area rounded to two decimal places.
+
+Constraints:
+0 ? radius ? 10^4

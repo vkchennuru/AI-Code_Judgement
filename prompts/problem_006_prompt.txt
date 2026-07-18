@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Prime Number Check
+
+Problem Statement:
+Write a Python program that defines a function to determine whether a given integer is prime. Print "Prime" if the number is prime; otherwise print "Not Prime".
+
+Input Format:
+One positive integer.
+
+Output Format:
+Print "Prime" or "Not Prime".
+
+Constraints:
+1 ? N ? 10^6

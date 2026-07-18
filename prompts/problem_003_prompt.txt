@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Largest of Two Numbers
+
+Problem Statement:
+Write a Python program that reads two integers and prints the larger number. If both are equal, print either value.
+
+Input Format:
+Two integers separated by a space.
+
+Output Format:
+Print the larger integer.
+
+Constraints:
+-10^9 ? a, b ? 10^9

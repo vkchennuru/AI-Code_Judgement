@@ -1,0 +1,23 @@
+Write a complete Python 3 program for the following programming problem.
+
+Requirements:
+- Output only Python code.
+- Do not include explanations.
+- Do not include Markdown.
+- Read input from standard input.
+- Print output to standard output.
+
+Problem Title:
+Word Frequency Counter
+
+Problem Statement:
+Write a Python program that reads a sentence and prints the frequency of each word while preserving the order of first appearance.
+
+Input Format:
+One line containing a sentence.
+
+Output Format:
+Print each word followed by its frequency, one per line.
+
+Constraints:
+Up to 100 words
