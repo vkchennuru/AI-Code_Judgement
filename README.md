@@ -438,3 +438,210 @@ This repository is intended to support:
 The workflow can also serve as a reusable experimental framework for future studies investigating AI-generated programming solutions in educational settings.
 
 ---
+---
+
+# 📚 Citation
+
+If you use this repository, benchmark, methodology, or any part of the experimental framework in your research, please cite both the accompanying research paper (when published) and this repository.
+
+## Repository Citation
+
+```bibtex
+@software{Krishnaveni2026_AICodeJudgement,
+  author       = {Chennuru, Venkata Krishnaveni},
+  title        = {AI-Code Judgement: A Reproducible Framework for Evaluating AI-Generated Introductory Programming Solutions},
+  year         = {2026},
+  publisher    = {GitHub},
+  url          = {https://github.com/vkchennuru/AI-Code_Judgement}
+}
+```
+
+> **Note:** Once the repository is archived on Zenodo, this citation will be updated with the DOI.
+
+---
+
+# 📄 Related Publication
+
+**Title**
+
+> *Evaluating the Functional Correctness and Consistency of AI-Generated Introductory Programming Solutions for Computing Education*
+
+**Conference**
+
+ACM COMPUTE 2026 *(Manuscript under preparation)*
+
+The GitHub repository serves as the reproducible research artifact accompanying the conference submission.
+
+---
+
+# 🔄 Reproducibility Statement
+
+This repository has been developed to support transparent and reproducible Computing Education research.
+
+Researchers should be able to:
+
+- Reproduce the complete experimental workflow
+- Verify the reported results
+- Extend the benchmark dataset
+- Compare additional Large Language Models
+- Apply the methodology to new programming problems
+
+The repository is organized to encourage reuse, verification, and future extensions.
+
+---
+
+# 🌱 Future Work
+
+This project provides a foundation for future research in AI-assisted programming and Computing Education.
+
+Potential directions include:
+
+- Expanding the benchmark with additional CS1 and CS2 programming problems
+- Comparing multiple Large Language Models
+- Evaluating prompt engineering strategies
+- Investigating code quality beyond functional correctness
+- Studying the impact of AI-generated code on student learning
+- Integrating automated code quality metrics
+- Developing educator-oriented evaluation dashboards
+
+Researchers are encouraged to build upon this framework.
+
+---
+
+# 🤝 Contributing
+
+Contributions that improve the quality and reproducibility of this repository are welcome.
+
+Examples include:
+
+- Additional benchmark problems
+- Improved hidden test cases
+- Bug fixes
+- Documentation improvements
+- New evaluation metrics
+- Educational case studies
+
+Before submitting major changes, please open an issue describing the proposed contribution.
+
+---
+
+# 🐞 Reporting Issues
+
+If you discover an issue or identify an error, please create a GitHub Issue with:
+
+- Description of the problem
+- Steps to reproduce
+- Expected behavior
+- Actual behavior
+- Suggested improvement (if available)
+
+Constructive feedback from educators and researchers is highly appreciated.
+
+---
+
+# ❓ Frequently Asked Questions (FAQ)
+
+### Is this repository intended for beginners?
+
+Yes. The benchmark consists of introductory programming (CS1) problems suitable for novice programmers and Computing Education research.
+
+---
+
+### Which programming language is used?
+
+Python is used throughout the experimental workflow.
+
+---
+
+### Can I reuse the benchmark?
+
+Yes, subject to the repository license. Please provide appropriate citation.
+
+---
+
+### Can I contribute additional benchmark problems?
+
+Certainly. Contributions that improve benchmark diversity and educational value are encouraged.
+
+---
+
+### Can this framework evaluate other Large Language Models?
+
+Yes.
+
+The experimental workflow is model-independent and can be extended to evaluate additional AI coding assistants.
+
+---
+
+# 📜 License
+
+This project is released under the **MIT License**.
+
+You are free to use, modify, and distribute the software in accordance with the license terms.
+
+Please provide appropriate attribution when using this work in research or educational settings.
+
+---
+
+# 👩‍💻 About the Author
+
+**Dr. C. V. Krishnaveni**
+
+Lecturer in Computer Science
+
+SKR & SKR Government College for Women (Autonomous)
+
+Kadapa, Andhra Pradesh, India
+
+**Research Interests**
+
+- Computing Education
+- Artificial Intelligence
+- Machine Learning
+- Program Analysis
+- Educational Data Mining
+- Reproducible Research
+
+---
+
+# 📬 Contact
+
+For research collaborations, academic discussions, or suggestions:
+
+- GitHub: https://github.com/vkchennuru
+- Email: *(Add your academic email here)*
+- ORCID: *(Add your ORCID here when available)*
+- Google Scholar: *(Add your profile link when available)*
+
+---
+
+# 🙏 Acknowledgements
+
+The author gratefully acknowledges the open-source scientific computing community whose tools and libraries made this work possible.
+
+Special appreciation is extended to the broader Computing Education research community for promoting reproducible and transparent research practices.
+
+---
+
+<div align="center">
+
+# ⭐ Support the Project
+
+If you find this repository useful for your research or teaching,
+
+please consider giving it a **⭐ Star** on GitHub.
+
+Your support helps improve the visibility of reproducible Computing Education research.
+
+---
+
+### 💡 "Reproducibility transforms experiments into scientific contributions."
+
+---
+
+**Thank you for visiting this repository.**
+
+Contributions, suggestions, collaborations, and constructive feedback are always welcome.
+
+</div>
+
