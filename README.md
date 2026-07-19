@@ -202,3 +202,239 @@ please consider giving it a **Star** ⭐
 Research collaborations, suggestions, and constructive feedback are always welcome.
 
 </div>
+
+---
+
+# 🧪 Experimental Methodology
+
+The experimental framework follows a systematic and reproducible workflow to evaluate AI-generated introductory programming solutions.
+
+The methodology consists of eight sequential stages:
+
+1. Benchmark Construction
+2. Prompt Preparation
+3. AI Code Generation
+4. Functional Evaluation
+5. Error Analysis
+6. Statistical Analysis
+7. Structural Code Analysis
+8. Artifact Packaging
+
+Each stage is implemented as an independent Jupyter Notebook, allowing the complete experiment to be reproduced from raw benchmark problems to final research artifacts.
+
+---
+
+# 📊 Experimental Design
+
+| Component | Description |
+|-----------|-------------|
+| Programming Language | Python |
+| Domain | Introductory Programming (CS1) |
+| Benchmark Problems | Introductory Programming Problems |
+| AI-generated Programs | Multiple responses per problem |
+| Evaluation Strategy | Hidden Test Cases |
+| Structural Analysis | Python AST |
+| Statistical Analysis | Automated |
+| Visualizations | Publication-quality Figures |
+| Environment | Jupyter Notebook |
+
+---
+
+# 📁 Notebook Descriptions
+
+## 📘 Notebook 1 – Benchmark Construction
+
+Constructs the benchmark dataset consisting of introductory programming problems.
+
+### Outputs
+
+- Benchmark dataset
+- Problem metadata
+
+---
+
+## 📘 Notebook 2 – Prompt Preparation
+
+Creates standardized prompts for AI-assisted code generation.
+
+### Outputs
+
+- Prompt templates
+- Prompt repository
+
+---
+
+## 📘 Notebook 3 – AI Code Generation
+
+Generates multiple AI solutions for every benchmark problem.
+
+### Outputs
+
+- Generated Python programs
+- Organized repository of solutions
+
+---
+
+## 📘 Notebook 4 – Functional Evaluation
+
+Evaluates generated programs using hidden test cases.
+
+### Outputs
+
+- Execution results
+- Pass/Fail statistics
+- Evaluation dataset
+
+---
+
+## 📘 Notebook 5 – Error Analysis
+
+Performs detailed analysis of generated solutions.
+
+### Outputs
+
+- Error categories
+- Consistency analysis
+- Educational findings
+
+---
+
+## 📘 Notebook 6 – Statistical Analysis
+
+Produces descriptive statistics and publication-quality visualizations.
+
+### Outputs
+
+- Statistical summaries
+- Graphs
+- Research figures
+
+---
+
+## 📘 Notebook 7 – Structural Code Analysis
+
+Analyzes generated programs using Python Abstract Syntax Trees (AST).
+
+### Outputs
+
+- Structural metrics
+- Complexity analysis
+- Educational interpretation
+
+---
+
+## 📘 Notebook 8 – Artifact Packaging
+
+Packages the complete experiment as a reproducible research artifact.
+
+### Outputs
+
+- requirements.txt
+- LICENSE
+- CITATION.cff
+- artifact documentation
+- reproducibility checklist
+
+---
+
+# 📈 Experimental Outputs
+
+The repository automatically generates
+
+- Benchmark Dataset
+- Prompt Collection
+- AI-generated Programs
+- Evaluation Results
+- Error Analysis Reports
+- Statistical Summaries
+- Structural Metrics
+- Publication-quality Figures
+- Reproducibility Documentation
+
+---
+
+# 📊 Research Figures
+
+The repository generates publication-ready figures for the ACM COMPUTE paper.
+
+Example outputs include:
+
+- Functional Correctness Analysis
+- Problem-wise Pass Rate
+- Error Type Distribution
+- Consistency Analysis
+- Execution Statistics
+- Structural Metrics
+
+> **Note:** Figures are available in the `figures/` directory.
+
+---
+
+# 🔁 Reproducibility
+
+To reproduce the complete experiment:
+
+1. Clone the repository.
+2. Install all dependencies.
+3. Execute the notebooks sequentially.
+4. Compare the generated outputs with those included in the repository.
+
+Execution Order
+
+Notebook 1 → Notebook 2 → Notebook 3 → Notebook 4 → Notebook 5 → Notebook 6 → Notebook 7 → Notebook 8
+
+---
+
+# 💻 Software Requirements
+
+- Python 3.12
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib
+
+Additional dependencies are listed in `requirements.txt`.
+
+---
+
+# 📂 Repository Outputs
+
+After successful execution, the repository produces:
+
+```text
+dataset/
+
+generated_code/
+
+evaluation/
+
+results/
+
+figures/
+
+documentation/
+
+publication tables
+
+publication figures
+
+artifact package
+```
+
+---
+
+# 🎓 Educational Significance
+
+This repository is intended to support:
+
+- Computing Education researchers
+- Computer Science educators
+- AI-assisted programming research
+- Reproducible research studies
+- Introductory programming instruction
+- Benchmark development
+- Program analysis research
+
+The workflow can also serve as a reusable experimental framework for future studies investigating AI-generated programming solutions in educational settings.
+
+---
