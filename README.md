@@ -96,26 +96,17 @@ How can these observations support educators in teaching introductory programmin
 
 # 🔬 Experimental Workflow
 
-```mermaid
-```mermaid
-flowchart TD
+<p align="center">
 
-A["📋 Phase 1<br><b>Dataset Preparation</b><br><br>Notebook 1<br>Benchmark Construction<br><br>Notebook 2<br>Prompt Preparation"]
+<img src="assets/workflow.png" alt="Experimental Workflow" width="1000"/>
 
-B["🤖 Phase 2<br><b>AI Code Generation</b><br><br>Notebook 3<br>Generate Multiple Solutions"]
+</p>
 
-C["🧪 Phase 3<br><b>Experimental Evaluation</b><br><br>Notebook 4<br>Functional Evaluation<br><br>Notebook 5<br>Error Analysis<br><br>Notebook 6<br>Statistical Analysis<br><br>Notebook 7<br>Structural Analysis"]
+<p align="center">
 
-D["📦 Phase 4<br><b>Research Artifact</b><br><br>Notebook 8<br>Artifact Packaging<br><br>GitHub Repository"]
+<b>Figure 1.</b> End-to-end reproducible experimental workflow implemented in the AI-Code Judgement framework.
 
-A --> B --> C --> D
-
-style A fill:#E3F2FD,stroke:#1565C0,stroke-width:2px
-style B fill:#E8F5E9,stroke:#2E7D32,stroke-width:2px
-style C fill:#FFF3E0,stroke:#EF6C00,stroke-width:2px
-style D fill:#F3E5F5,stroke:#7B1FA2,stroke-width:2px
-```
-
+</p>
 ---
 
 # 📂 Repository Structure
